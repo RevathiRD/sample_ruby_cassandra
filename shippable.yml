@@ -1,4 +1,5 @@
 language: ruby
+build_image: drydock/u12ruball:tip
 
 services:
   - cassandra
